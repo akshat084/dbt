@@ -4,3 +4,4 @@ with customer as(
 
 
 select C_CUSTKEY from customer
+
